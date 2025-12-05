@@ -138,3 +138,11 @@ USDGOLD (USDG) — это DeFi-токен с рыночной ценой, кот
 Проект не является банковским продуктом, стейблкоином, ценной бумагой или инвестиционной рекомендацией.  
 Информация в этом репозитории носит ознакомительный характер и не является финансовым советом.  
 Всегда проводи собственное исследование (DYOR) и, при необходимости, консультируйся со специалистами.
+## Security & Audit
+
+The BEP-20 smart contract of Gold USD (USDG) on BNB Smart Chain  
+(contract address: 0x0Caf8956cd1a219Cc4e56005593F80f221B5E666)  
+has been audited by Dessert Finance at block 70,599,982.
+
+➡ Full audit report (PDF):  
+https://github.com/usdgoldmem/usdgold-info/raw/main/USDG-BSC-AUDIT-70599982%20(1).pdf
