@@ -1,25 +1,49 @@
-# USDG Gold Audit
+# USDG Gold (USDG) — Audit Report
 
-Official audit report for USDG Gold (USDG).
+This repository contains the official audit report for USDG Gold.
+
+---
 
 ## Audit File
+
 - https://github.com/usdgoldmem/usdgold-info/blob/main/audit/usdg-audit.pdf
 
-## Networks
-- BNB Chain
-- Ethereum
-- Arbitrum
-- TRON (TRC20)
+---
 
-## Summary
+## Covered Contracts
+
+### EVM Networks (same contract)
+
+- Arbitrum (ARB)
+- Ethereum (ETH)
+- BNB Chain (BEP-20)
+
+Contract:
+0x82248D53De2B7608cAF53978A8E8C238DC42403a
+
+---
+
+### TRON Network (TRC-20)
+
+Contract:
+TWg25kRwooVkxKPaPkdx7MApLxNbz6VrBd
+
+---
+
+## Audit Summary
 
 The audit confirms:
 
 - No honeypot behavior  
 - No sell restrictions  
 - No malicious logic  
-- Fully tradable token  
+- No hidden control mechanisms  
+- Fully transferable token  
 
-## Status
+---
 
-USDG Gold is currently under review by BlockAid for a false positive classification.
+## Notes
+
+This audit applies to the current multi-chain deployment.
+
+All contract data is consistent with the official repository.
