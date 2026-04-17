@@ -156,7 +156,7 @@ Participation in any USDG-related program is entirely voluntary and at the parti
 **Official Links**
 
 - Website: https://usdgdefi.com  
-- BscScan (Token): https://bscscan.com/token/0x0Caf8956cd1a219Cc4e56005593F80f221B5E666  
+- [BscScan (Token)  (https://bscscan.com/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a) 
 - Additional links (DEX pools, analytics, etc.) will be added as they go live.
 
 ---
