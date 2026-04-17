@@ -1,11 +1,48 @@
-# USDGOLD (USDG) – Contracts
+# USDG Gold (USDG) — Official Contracts
 
-## BNB Smart Chain (BEP-20)
-- Contract: `0x0caf8956cd1a219cc4e56005593f80f221b5e666`
-- Decimals: 18
-- Explorer: https://bscscan.com/token/0x0caf8956cd1a219cc4e56005593f80f221b5e666
+This document contains the official contract addresses for USDG Gold across all supported networks.
 
-## Ethereum (ERC-20)
-- Contract: `0x17b65cfcd084739459ecc8fdc032e9cbc7aeefda`
-- Decimals: 18
-- Explorer: https://etherscan.io/token/0x17b65cfcd084739459ecc8fdc032e9cbc7aeefda
+---
+
+## EVM Networks (Same Contract Address)
+
+The following networks use the same verified smart contract:
+
+- Arbitrum (ARB)  
+- Ethereum (ETH)  
+- BNB Chain (BEP-20)  
+
+Contract Address:
+0x82248D53De2B7608cAF53978A8E8C238DC42403a
+
+---
+
+## TRON Network (TRC-20)
+
+Contract Address:
+TWg25kRwooVkxKPaPkdx7MApLxNbz6VrBd
+
+---
+
+## Contract Properties
+
+All USDG contracts are:
+
+- Verified and open-source  
+- Fully transferable  
+- No mint function  
+- No burn function  
+- No blacklist  
+- No transaction restrictions  
+- No hidden control mechanisms  
+
+---
+
+## Summary
+
+USDG Gold is a fully tradable multi-chain token.
+
+All EVM deployments share the same contract address.  
+TRON deployment operates independently as TRC-20.
+
+There are no restrictions affecting buying, selling, or transferring tokens.
