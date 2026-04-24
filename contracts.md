@@ -13,14 +13,22 @@ The following networks use the same verified smart contract:
 - BNB Chain (BEP-20)  
 
 Contract Address:
-0x82248D53De2B7608cAF53978A8E8C238DC42403a
+Ethereum (ERC20):
+https://etherscan.io/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a
+
+BNB Smart Chain (BEP20):
+https://bscscan.com/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a
+
+Arbitrum:
+https://arbiscan.io/token/0x82248D53De2B7608cAF53978A8E8C238DC42403a
 
 ---
 
 ## TRON Network (TRC-20)
 
 Contract Address:
-TWg25kRwooVkxKPaPkdx7MApLxNbz6VrBd
+TRON (TRC20):
+https://tronscan.org/#/token20/TWg25kRwooVkxKPaPkdx7MApLxNbz6VrBd
 
 ---
 
