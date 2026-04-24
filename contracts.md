@@ -46,3 +46,30 @@ All EVM deployments share the same contract address.
 TRON deployment operates independently as TRC-20.
 
 There are no restrictions affecting buying, selling, or transferring tokens.
+
+---
+
+## ⚠️ IMPORTANT: HONEYPOT STATUS
+
+USDG is NOT a honeypot.
+
+Proof:
+
+- Tokens can be bought ✅
+- Tokens can be sold ✅
+- Transfers work without restriction ✅
+
+There are NO:
+
+- Sell restrictions
+- Hidden fees
+- Blacklist functions
+- Owner-controlled limitations
+
+Blockaid Status:
+✔ Risk flag REMOVED
+
+Trust Wallet Status:
+❗ Outdated flag (under review)
+
+This repository provides full transparency and verification of USDG functionality.
