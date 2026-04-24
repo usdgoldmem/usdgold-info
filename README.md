@@ -65,11 +65,10 @@ The token follows a simple and transparent contract model:
 
 ## Official Links
 
-Website: https://usdgdefi.com  
-X (Twitter): https://x.com/UsdMem  
+Website: https://usdgdefi.com    
 Telegram: https://t.me/usdggold  
 GitHub: https://github.com/usdgoldmem  
-Whitepaper: https://github.com/usdgoldmem/usdgold-info/blob/main/docs/whitepaper.pdf
+[Whitepaper: https://github.com/usdgoldmem/usdgold-info/blob/main/docs/whitepaper.pdf](https://github.com/usdgoldmem/usdgold-info/blob/main/audit/usdg-audit.pdf)
 ---
 
 ## Contact
