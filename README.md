@@ -69,7 +69,7 @@ Website: https://usdgdefi.com
 X (Twitter): https://x.com/UsdMem  
 Telegram: https://t.me/usdggold  
 GitHub: https://github.com/usdgoldmem  
-
+Whitepaper: https://github.com/usdgoldmem/usdgold-info/blob/main/docs/whitepaper.pdf
 ---
 
 ## Contact
